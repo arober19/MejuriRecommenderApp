@@ -50,6 +50,6 @@ Future Work:
 
 Look into Different Methods of Calculating Image Similarities
 , further Parameter Optimization Required, Bracelet & Ring Issue
-,compatibility with Phones?
+, compatibility with Phones?
 
 
